@@ -1,0 +1,16 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(360deg, rgba(2,0,36,1) 55%, rgba(19,73,96,1) 100%, rgba(9,30,51,1) 100%);
+background-repeat:no-repeat ;
+}
+
+nav{
+    background-color: #257488;
+    background-size: 100%;
+
+    color: #BCDFFE;
+}
+ 
+h1, p, h2{
+    font-family: 'Barlow', sans-serif;
+    }
